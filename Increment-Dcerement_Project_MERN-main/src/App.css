@@ -1,0 +1,18 @@
+.main{
+  padding: 20px;
+  margin: 0;
+  background-color: black;
+  height: full;
+  color: white;
+  gap: 20px;
+}
+.main button{
+  height: 35px;
+  margin-left: 30px;
+}
+.main div{
+  margin-top: 20px;
+}
+.main div input{
+  height: 25px;
+}
